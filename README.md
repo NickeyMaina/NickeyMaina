@@ -4,7 +4,7 @@
 ---
 
 ## 🚀 About Me
-I'm a self-taught developer passionate about learning, building projects, and exploring cybersecurity and AI tools.  
+I'm a self-taught junior developer passionate about learning, building projects, and exploring cybersecurity and AI tools.  
 I enjoy experimenting with new technologies, understanding systems deeply, and solving real-world problems with code.
 
 ---
@@ -50,5 +50,5 @@ AI-based decision support system for livestock management.
 
 ## ⚡ Fun Fact
 I love coding, experimenting with AI, and exploring how systems work under the hood.  
-Maximize productivity with AI, minimize frustration by learning it right.
+💡 You can use AI as a co-pilot and be 100% productive — or be its co-pilot and be 100% frustrated.  
 <p align="center">“Code, Learn, Grow, Repeat.”</p>
